@@ -1,0 +1,173 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+ 
+
+ 
+#navbar{
+display: flex;
+justify-content: space-between;
+/* margin-top: 10px;  */
+/* margin: 20px;  */
+position:fixed;
+top: 0px;
+right: 0px;
+left: 0px;
+/* bottom: 0px; */
+background-color:rgba(0,0,0,0.6) ;
+z-index: 10;
+/* box-shadow: 2px 4px 6px rgba(0,0,0,0.5); */
+
+
+}
+#sec1{
+  display: inline;
+  margin-left: 40px; 
+  
+  
+}
+#sec2 a{
+  display: inline;
+  margin-right: 70px;
+  text-decoration: none;
+  color:white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+  
+}
+
+#hero-text{
+  color: white;
+  position: absolute;
+  left: 300px;
+  top: 330px;
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-size: 25px; */
+}
+#card-section h3{
+ display: flex;
+ justify-content: center;
+ margin-top : 15px;
+}
+#new-release h3{
+ display: flex;
+ justify-content: center;
+ margin-top : 15px;
+}
+#best-sellers h3{
+ display: flex;
+ justify-content: center;
+ margin-top : 15px;
+}
+ #app-section{
+  color: white;
+  margin-left: 150px; 
+  padding-top: 80px;
+
+  
+}
+#phone-img{
+  margin-left: 80px;
+}
+#Bookstores h3{
+  display: flex;
+  justify-content: center;
+  margin-top : 50px;
+  margin-bottom: 30px;
+
+}
+#footer-list li{
+  list-style: none;
+
+  
+}
+ /* landing page css */
+
+#navbar2{
+display: flex;
+justify-content: space-between; 
+position:fixed;
+top: 0px;
+right: 0px;
+left: 0px;
+background-color:rgba(0,0,0,0.6) ;
+z-index: 10;
+}
+#sec1{
+  display: inline;
+  padding-top: 5px;
+  margin-left: 10px;
+}
+#sec-2 a{
+  display: inline;
+  text-decoration: none;
+  color:white;
+  margin-inline: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom:20px ;
+  
+}
+#btn1{
+  background-color: #43433f;
+  border-color: #db6073;
+  padding: 10px 5px;
+  font-size: 18px;
+  border-radius: 10px;
+
+}
+#btn2{
+  background-color: #db6073;
+  border-color: #db6073;
+  padding: 10px 5px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin-left: 20px;
+
+}
+#hero-text2{
+  color: white;
+  position: absolute;
+  left: 240px;
+  top: 280px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+/* <------discription1 navbar-------> */
+
+
+#D-navbar{
+display: flex;
+justify-content: space-between;
+/* margin-top: 10px;   */
+/* margin: 20px;  */
+position:fixed;
+top: 0px;
+right: 0px;
+left: 0px;
+background-color:rgba(255,255,255,6) ;
+z-index: 10;
+}
+#sec1{
+  display: inline;
+  margin-left: 50px;
+}
+#D-sec2 a{
+  display: inline;
+  margin-right: 50px;
+  text-decoration: none;
+  color:black;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+  
+}
+
+
+
+
+
+
+
